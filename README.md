@@ -1,0 +1,1 @@
+# static-hosting-in-aws-s3-without-custom-domain
